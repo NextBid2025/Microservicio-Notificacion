@@ -1,0 +1,13 @@
+C:\Users\Usuario\RiderProjects\NextBid\Microservicio-Notificacion\Solution1\Notificacion.Infrastructura\bin\Debug\net9.0\Notificacion.Infrastructura.deps.json
+C:\Users\Usuario\RiderProjects\NextBid\Microservicio-Notificacion\Solution1\Notificacion.Infrastructura\bin\Debug\net9.0\Notificacion.Infrastructura.dll
+C:\Users\Usuario\RiderProjects\NextBid\Microservicio-Notificacion\Solution1\Notificacion.Infrastructura\bin\Debug\net9.0\Notificacion.Infrastructura.pdb
+C:\Users\Usuario\RiderProjects\NextBid\Microservicio-Notificacion\Solution1\Notificacion.Infrastructura\obj\Debug\net9.0\Notificacion.Infrastructura.csproj.AssemblyReference.cache
+C:\Users\Usuario\RiderProjects\NextBid\Microservicio-Notificacion\Solution1\Notificacion.Infrastructura\obj\Debug\net9.0\Notificacion.Infrastructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\RiderProjects\NextBid\Microservicio-Notificacion\Solution1\Notificacion.Infrastructura\obj\Debug\net9.0\Notificacion.Infrastructura.AssemblyInfoInputs.cache
+C:\Users\Usuario\RiderProjects\NextBid\Microservicio-Notificacion\Solution1\Notificacion.Infrastructura\obj\Debug\net9.0\Notificacion.Infrastructura.AssemblyInfo.cs
+C:\Users\Usuario\RiderProjects\NextBid\Microservicio-Notificacion\Solution1\Notificacion.Infrastructura\obj\Debug\net9.0\Notificacion.Infrastructura.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\RiderProjects\NextBid\Microservicio-Notificacion\Solution1\Notificacion.Infrastructura\obj\Debug\net9.0\Notificacion.Infrastructura.sourcelink.json
+C:\Users\Usuario\RiderProjects\NextBid\Microservicio-Notificacion\Solution1\Notificacion.Infrastructura\obj\Debug\net9.0\Notificacion.Infrastructura.dll
+C:\Users\Usuario\RiderProjects\NextBid\Microservicio-Notificacion\Solution1\Notificacion.Infrastructura\obj\Debug\net9.0\refint\Notificacion.Infrastructura.dll
+C:\Users\Usuario\RiderProjects\NextBid\Microservicio-Notificacion\Solution1\Notificacion.Infrastructura\obj\Debug\net9.0\Notificacion.Infrastructura.pdb
+C:\Users\Usuario\RiderProjects\NextBid\Microservicio-Notificacion\Solution1\Notificacion.Infrastructura\obj\Debug\net9.0\ref\Notificacion.Infrastructura.dll

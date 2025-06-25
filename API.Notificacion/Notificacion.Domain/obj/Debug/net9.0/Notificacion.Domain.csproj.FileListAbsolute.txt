@@ -1,0 +1,13 @@
+C:\Users\Usuario\RiderProjects\NextBid\Microservicio-Notificacion\Solution1\Notificacion.Domain\bin\Debug\net9.0\Notificacion.Domain.deps.json
+C:\Users\Usuario\RiderProjects\NextBid\Microservicio-Notificacion\Solution1\Notificacion.Domain\bin\Debug\net9.0\Notificacion.Domain.dll
+C:\Users\Usuario\RiderProjects\NextBid\Microservicio-Notificacion\Solution1\Notificacion.Domain\bin\Debug\net9.0\Notificacion.Domain.pdb
+C:\Users\Usuario\RiderProjects\NextBid\Microservicio-Notificacion\Solution1\Notificacion.Domain\obj\Debug\net9.0\Notificacion.Domain.csproj.AssemblyReference.cache
+C:\Users\Usuario\RiderProjects\NextBid\Microservicio-Notificacion\Solution1\Notificacion.Domain\obj\Debug\net9.0\Notificacion.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\RiderProjects\NextBid\Microservicio-Notificacion\Solution1\Notificacion.Domain\obj\Debug\net9.0\Notificacion.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\RiderProjects\NextBid\Microservicio-Notificacion\Solution1\Notificacion.Domain\obj\Debug\net9.0\Notificacion.Domain.AssemblyInfo.cs
+C:\Users\Usuario\RiderProjects\NextBid\Microservicio-Notificacion\Solution1\Notificacion.Domain\obj\Debug\net9.0\Notificacion.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\RiderProjects\NextBid\Microservicio-Notificacion\Solution1\Notificacion.Domain\obj\Debug\net9.0\Notificacion.Domain.sourcelink.json
+C:\Users\Usuario\RiderProjects\NextBid\Microservicio-Notificacion\Solution1\Notificacion.Domain\obj\Debug\net9.0\Notificacion.Domain.dll
+C:\Users\Usuario\RiderProjects\NextBid\Microservicio-Notificacion\Solution1\Notificacion.Domain\obj\Debug\net9.0\refint\Notificacion.Domain.dll
+C:\Users\Usuario\RiderProjects\NextBid\Microservicio-Notificacion\Solution1\Notificacion.Domain\obj\Debug\net9.0\Notificacion.Domain.pdb
+C:\Users\Usuario\RiderProjects\NextBid\Microservicio-Notificacion\Solution1\Notificacion.Domain\obj\Debug\net9.0\ref\Notificacion.Domain.dll
